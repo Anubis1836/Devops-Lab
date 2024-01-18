@@ -1,0 +1,17 @@
+# Sample YAML File
+
+person:
+  name: John Doe
+  age: 30
+  gender: male
+
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip: '12345'
+
+hobbies:
+  - reading
+  - hiking
+  - coding
